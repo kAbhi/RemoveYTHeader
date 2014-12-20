@@ -1,0 +1,1 @@
+javascript:(function(){var%20ele1=document.getElementById("yt-masthead-container");var%20ele2=document.getElementById("masthead-positioner-height-offset");ele1.parentNode.removeChild(ele1);ele2.parentNode.removeChild(ele2);})();
